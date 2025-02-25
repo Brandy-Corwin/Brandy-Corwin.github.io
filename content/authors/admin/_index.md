@@ -2,8 +2,8 @@
 # Display name
 title: Brandy Corwin
 
-# Name pronunciation (optional)
-# name_pronunciation: Brandy Corwin
+Name pronunciation (optional)
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Brandy
@@ -47,9 +47,8 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  # - Artificial Intelligence
-  # - Computational Linguistics
-  # - Information Retrieval
+  - Genetics
+  - Coding
 
 education:
   - area: Bachalor's Degree in Bioinformatics
@@ -60,22 +59,21 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - 
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+      - Claculus 3
+      - Organic Chemistry
+      - Applied Bioinformatics
+      - Genetics
+      - Machine Learning
 
 
 work:
   - position: Research Assistant
     company_name: University of Wisconsin - Eau Claire
-    company_url: ''
+    company_url: 'https://www.uwec.edu/'
     company_logo: ''
     date_start: 2024-06-10
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Detecting introgression in sunflower populations
   # - position: Backend Software Engineer
@@ -93,7 +91,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
@@ -164,4 +162,4 @@ awards:
 
 ## About Me
 
-Brandy Corwin is an undergraduate student at the University of Wisconsin - Eau Claire. Her major is in bioinformatics with a minor in computer science.
+I am Brandy Corwin and I am an undergraduate student at the University of Wisconsin - Eau Claire. My major is bioinformatics with a minor in computer science.
