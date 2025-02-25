@@ -64,6 +64,7 @@ education:
       - Applied Bioinformatics
       - Genetics
       - Machine Learning
+      - Epidemiology
 
 
 work:
@@ -75,7 +76,8 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Detecting introgression in sunflower populations
+      - Applying bioinformatics algorithms such as ipyrad and Treemix to detect introgression in sunflowers
+      - Creating phylogenetic trees for South African protea by using RAxML and ASTRAL algorithms
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -94,35 +96,38 @@ skills:
   - name: Programming Languages
     items:
       - name: Python
-        description: ''
+        # description: ''
         # icon: code-bracket
       - name: Java
-        description: ''
+        # description: ''
         # icon: chart-bar
       - name: R
-        description: ''
+        # description: ''
       - name: C
-        description: ''
+        # description: ''
       - name: SQL
-        description: ''
+        # description: ''
         # percent: 40
         # icon: circle-stack
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
+  - name: Computer and Science Lab Experience
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: PCR
+        # description: ''
+        # percent: 60
+        # icon: person-simple-walk
+      - name: Gel Electrophoresis
+        # description: ''
+        # percent: 100
+        # icon: cat
+      - name: IR
+        # description: ''
+        # percent: 80
+        # icon: camera
+      - name: TLC
+      - name: Machine Learning
+      - name: Various bioinformatics algorithms such as markov models and star alignments
 
 languages:
   - name: English
