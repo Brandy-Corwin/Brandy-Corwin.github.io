@@ -1,7 +1,7 @@
 ---
 title: Sunflower Research
 date: 2025-02-25
-external_link: ''
+external_link: https://github.com/pandas-dev/pandas
 tags:
   # - Hugo
   # - Wowchemy
