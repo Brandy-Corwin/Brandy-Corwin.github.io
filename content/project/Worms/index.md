@@ -1,7 +1,7 @@
 ---
 title: Parasitic Worm Research
 date: 2025-02-25
-external_link: ''
+external_link: https://github.com/Brandy-Corwin/Schistosoma-RNA-seq
 tags:
   # - Hugo
   # - Wowchemy

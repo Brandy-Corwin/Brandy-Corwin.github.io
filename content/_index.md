@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I have done research both inside and outside the classroom at UW - Eau Claire.
+        I have done research both inside and outside the classroom at UW - Eau Claire. More information about my research can be found in the projects tab.
     design:
       columns: '1'
   # - block: collection
