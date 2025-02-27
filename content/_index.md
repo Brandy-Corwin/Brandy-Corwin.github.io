@@ -25,7 +25,8 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: dna_background.jpg
-          filters:
+          filter: blur(4px)
+          filters:  
             brightness: 1.0
           size: cover
           position: center
