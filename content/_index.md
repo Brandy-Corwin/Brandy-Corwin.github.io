@@ -27,7 +27,7 @@ sections:
           filename: dna_background.jpg
           filter: blur(4px)
           filters:  
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
