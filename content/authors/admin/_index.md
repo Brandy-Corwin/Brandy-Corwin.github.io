@@ -51,7 +51,7 @@ interests:
   - Coding
 
 education:
-  - area: Bachalor's Degree in Bioinformatics
+  - area: Bachelor's Degree in Bioinformatics
     institution: University of Wisconsin - Eau Claire
     date_start: 2021-09-01
     date_end: 2025-05-17
