@@ -59,7 +59,7 @@ education:
       GPA: 3.8/4.0
 
       Courses included:
-      - Claculus 3
+      - Calculus 3
       - Organic Chemistry
       - Applied Bioinformatics
       - Genetics
@@ -128,6 +128,10 @@ skills:
       - name: TLC
       - name: Machine Learning
       - name: Various bioinformatics algorithms such as markov models and star alignments
+  - name: Hobbies
+    items:
+      - name: Reading
+      - name: Board and Video Games
 
 languages:
   - name: English
