@@ -1,11 +1,8 @@
 ---
 title: Protea Research
-date: 2025-02-25
+date: 2025-01-27
 external_link: ''
 tags:
-  # - Hugo
-  # - Wowchemy
-  # - Markdown
 ---
 
 Used RAxML and Astral to create phylogenetic trees for South African protea.
