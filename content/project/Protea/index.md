@@ -1,6 +1,6 @@
 ---
 title: Protea Research
-date: 2025-01-27
+date: 2025-03-24
 external_link: ''
 tags:
 ---
