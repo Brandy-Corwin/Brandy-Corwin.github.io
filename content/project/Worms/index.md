@@ -2,8 +2,8 @@
 title: Parasitic Worm Research
 date: 2025-03-24
 share: false
-button:
-  - title: Poster
+links:
+  - name: Poster
     url: Worms.pdf
 ---
 
