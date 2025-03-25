@@ -2,11 +2,11 @@
 title: Parasitic Worm Research
 date: 2025-03-24
 sections:
-  - block: buttons
+  - block: button
     content:
-      buttons:
-        - title: Download Poster
-          url: Schistosoma_mansoni.pdf
+      button:
+        text: Download Poster
+        url: Schistosoma_mansoni.pdf
 ---
 
 Used Star aligment and deseq2 to look at differential expression of Schistosoma mansoni in the intestions versus liver of rats.
