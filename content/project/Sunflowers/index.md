@@ -1,6 +1,7 @@
 ---
 title: Sunflower Research
 date: 2025-03-24
+share: false
 ---
 
 Used ipyrad and Treemix to detect introgression between sunflower populations in Wisconsin.
