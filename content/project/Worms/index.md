@@ -5,7 +5,7 @@ share: false
 
 ---
 
-+ [Download Poster](Worms.pdf)
+[Download Poster](poster.pdf)
 
 Used Star aligment and deseq2 to look at differential expression of Schistosoma mansoni in the intestions versus liver of rats.
 
