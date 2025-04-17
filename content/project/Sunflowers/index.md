@@ -4,6 +4,8 @@ date: 2025-03-24
 share: false
 ---
 
+[Download Poster](corwinbm5021_cerca2025_poster_revised.pdf)
+
 Used ipyrad and Treemix to detect introgression between sunflower populations in Wisconsin.
 
 Abstract:
