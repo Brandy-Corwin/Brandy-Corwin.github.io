@@ -46,7 +46,7 @@ education:
   - area: Master's Degree in Bioinformatics and Genomics
     institution: University of Oregon
     date_start: 2025-06-23
-    date_end: Current
+    date_end: 
   - area: Bachelor's Degree in Bioinformatics
     institution: University of Wisconsin - Eau Claire
     date_start: 2021-09-01
