@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Wisconsin - Eau Claire
-    url: https://www.uwec.edu/ 
+  - name: University of Oregon
+    url: https://www.uoregon.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:CorwinBM5021@uwec.edu'
+    url: 'mailto:bcorwin@uoregon.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Brandy-Corwin
@@ -43,6 +43,10 @@ interests:
   - Coding
 
 education:
+  - area: Master's Degree in Bioinformatics and Genomics
+    institution: University of Oregon
+    date_start: 2025-06-23
+    date_end: Current
   - area: Bachelor's Degree in Bioinformatics
     institution: University of Wisconsin - Eau Claire
     date_start: 2021-09-01
@@ -79,7 +83,7 @@ work:
     company_url: 'https://www.uwec.edu/'
     company_logo: ''
     date_start: 2024-06-10
-    date_end: ''
+    date_end: '2025-05-17'
     summary: |
       Responsibilities include:
       - Applying bioinformatics algorithms such as ipyrad and Treemix to detect introgression in sunflowers
@@ -146,4 +150,4 @@ skills:
 
 ## About Me
 
-I am Brandy Corwin and I am an undergraduate student at the University of Wisconsin - Eau Claire. My major is bioinformatics with a minor in computer science.
+I am Brandy Corwin and I am a graduate student at the University of Oregon in the Knight Campus Graduate Internship Program. My master's will be in bioinformatics and genomics.
