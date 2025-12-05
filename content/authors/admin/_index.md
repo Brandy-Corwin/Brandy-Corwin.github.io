@@ -36,14 +36,14 @@ profiles:
   - icon: brands/github
     url: https://github.com/Brandy-Corwin
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/brandy-corwin-2340b1269/  
+    url: https://www.linkedin.com/in/brandy-corwin/  
 
 interests:
   - Genetics
   - Coding
 
 education:
-  - area: Master's Degree in Bioinformatics and Genomics
+  - area: Master's Degree in Biology with focus in Bioinformatics and Genomics
     institution: University of Oregon
     date_start: 2025-06-23
     date_end: 
@@ -98,6 +98,8 @@ skills:
       - name: Python
         # description: ''
         # icon: code-bracket
+      - name: Bash
+        # description: ''
       - name: Java
         # description: ''
         # icon: chart-bar
@@ -109,29 +111,39 @@ skills:
         # description: ''
         # percent: 40
         # icon: circle-stack
-  - name: Computer and Science Lab Experience
+  - name: Software/tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: PCR
+      - name: STAR
         # description: ''
         # percent: 60
         # icon: person-simple-walk
-      - name: Gel Electrophoresis
+      - name: DESeq2
         # description: ''
         # percent: 100
         # icon: cat
-      - name: IR
+      - name: TreeMix
         # description: ''
         # percent: 80
         # icon: camera
-      - name: TLC
-      - name: Machine Learning
-      - name: Various bioinformatics algorithms such as markov models and star alignments
-  - name: Hobbies
+      - name: ASTRAL
+      - name: Snakemake
+      - name: BLAST
+      - name: ipyrad
+      - name: RAxML
+      - name: RShiny
+      - name: tidyverse
+      - name: tidymodels
+      - name: conda
+      - name: Benchling
+      - name: Docker
+      - name: AmpliCan
+  - name: Wet Lab
     items:
-      - name: Reading
-      - name: Board and Video Games
+      - name: PCR
+      - name: gel electrophoresis
+      - name: NGS library prep
 
 
 # Awards.
