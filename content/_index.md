@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: uploads/Resume.pdf
+        url: uploads/62_Brandy_Corwin.pdf
     design:
       css_class: dark
       background:
