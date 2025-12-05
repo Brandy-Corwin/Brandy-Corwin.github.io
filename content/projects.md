@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: These are some projects I have been working on at UW - Eau Claire.
+      text: These are some projects I have been working on.
       filters:
         folders:
           - project
