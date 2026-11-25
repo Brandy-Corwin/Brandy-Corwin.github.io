@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:bcorwin@uoregon.edu'
+    url: 'mailto:brandy.m.corwin@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Brandy-Corwin
@@ -47,7 +47,7 @@ education:
     institution: University of Oregon
     date_start: 2025-06-23
     date_end: 
-  - area: Bachelor's Degree in Bioinformatics
+  - area: Bachelor's Degree in Bioinformatics with minor in Computer Science
     institution: University of Wisconsin - Eau Claire
     date_start: 2021-09-01
     date_end: 2025-05-17
@@ -78,6 +78,28 @@ education:
 
 
 work:
+  - position: Research Associate
+    company_name: Rogers Behavioral Health
+    date_start: 2026-04-20
+    date_end: '2026-12-31'
+    summary: |
+      Responsibilities include:
+      - Conducted a comprehensive literature review about EEGs in patients with OCD and chronic emotion dysregulation and developed research hypotheses and methodological recommendations to inform a future study.
+      - Designed and programmed an EEG Go/No-Go task in E-Prime for implementation in an upcoming research project.
+      - Analyzed pharmacogenomic (PGx) data using RStudio and tidyverse to develop a pilot weighting system for mental disorder medications, supporting more informed clinical decision-making.
+      - Demonstrated strong time-management and organizational skills by simultaneously supporting three research projects across three principal investigators (PIs).
+
+  - position: Graduate Student Researcher
+    company_name: University of Oregon & InVivo Biosystems
+    date_start: 2025-10-01
+    date_end: '2026-03-31'
+    summary: |
+      Responsibilities include:
+      - Designed and implemented a pipeline to assess CRISPR-Cas9 editing efficiency across multiple cut sites on a target gene using short, paired-end NGS reads, enhancing both accuracy and runtime performance.
+      - Ensured high-fidelity downstream analysis by conducting quality trimming of sequencing data using Trimmomatic.
+      - Reported confidence in gene editing efficiency by calculating frameshift mutations, insertions, deletions, and other editing outcomes using the Amplican R package.
+      - Streamlined pipeline usability and improved visual presentation of results by building an interactive user interface using React and Docker.
+
   - position: Research Assistant
     company_name: University of Wisconsin - Eau Claire
     company_url: 'https://www.uwec.edu/'
@@ -86,8 +108,11 @@ work:
     date_end: '2025-05-17'
     summary: |
       Responsibilities include:
-      - Applying bioinformatics algorithms such as ipyrad and Treemix to detect introgression in sunflowers
-      - Creating phylogenetic trees for South African protea by using RAxML and ASTRAL algorithms
+      - Analyzed sunflower (Helianthus) genomes from three species and found no evidence of introgression, transfer of genetic material due to hybridization, in RAD-seq data by independently learning and using ipyrad for sequence assembly and TreeMix for population structure inference.
+      - Produced phylogenetic trees for South African flowering plants (Protea) by independently learning and using RAxML for maximum likelihood estimation and ASTRAL for species tree inference.
+      - Identified the most data-compatible solution to streamline analysis workflows by assessing and optimizing multiple bioinformatics software tools.
+      - Effectively communicated complex results to a multidisciplinary audience by designing a poster for sunflower research and presenting the poster at CERCA (Celebration of Excellence in Research + Creative Activity) in undergrad.
+
 
 
 # Skills
@@ -136,9 +161,9 @@ skills:
       - name: tidyverse
       - name: tidymodels
       - name: conda
-      - name: Benchling
       - name: Docker
       - name: AmpliCan
+      - name: E-Prime
   - name: Wet Lab
     items:
       - name: PCR
@@ -162,4 +187,4 @@ skills:
 
 ## About Me
 
-I am Brandy Corwin and I am a graduate student at the University of Oregon in the Knight Campus Graduate Internship Program. My master's will be in bioinformatics and genomics.
+I am Brandy Corwin and I am a graduate student at the University of Oregon in the Knight Campus Graduate Internship Program. My master's will be in bioinformatics and genomics and am graduating in December 2026.
